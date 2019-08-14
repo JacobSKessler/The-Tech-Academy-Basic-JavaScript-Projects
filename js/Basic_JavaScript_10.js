@@ -1,5 +1,5 @@
 var count = 0;
-var txt = "this string is short";
+var txt = "this string is short"; // this var is here so several functions can make use of it
 var nums = [4,3,6,2,1];
 
 function Call_Loop() {
